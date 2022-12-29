@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NetLib/1.0.0": {
+        "dependencies": {
+          "nunit.framework": "2.6.3.13283"
+        },
+        "runtime": {
+          "NetLib.dll": {}
+        }
+      },
+      "nunit.framework/2.6.3.13283": {
+        "runtime": {
+          "nunit.framework.dll": {
+            "assemblyVersion": "2.6.3.13283",
+            "fileVersion": "2.6.3.13283"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "nunit.framework/2.6.3.13283": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

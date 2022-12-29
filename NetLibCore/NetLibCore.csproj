@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+    <AssemblyName>NetLib</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Backup\Net.sln" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="nunit.framework">
+      <HintPath>dll\nunit.framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\bin\Debug\net6.0\nunit.framework.dll
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\obj\Debug\net6.0\NetLibCore.csproj.AssemblyReference.cache
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\obj\Debug\net6.0\NetLibCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\obj\Debug\net6.0\NetLibCore.csproj.CoreCompileInputs.cache
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\obj\Debug\net6.0\NetLibCore.csproj.CopyComplete
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\bin\Debug\net6.0\NetLib.deps.json
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\bin\Debug\net6.0\NetLib.dll
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\bin\Debug\net6.0\NetLib.pdb
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\obj\Debug\net6.0\NetLib.dll
+D:\Project\Zaeim Project\test\NetLibCore\NetLibCore\obj\Debug\net6.0\NetLib.pdb
